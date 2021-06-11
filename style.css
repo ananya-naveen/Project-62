@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    background-color: darkslateblue !important;
+    color: white !important;
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: cornsilk;
+    font-size: 20px;
+}
+#mycarousel{
+    background-color: wheat;
+}
+#mycarousel img{
+    height: 600px !important;
+    width: 600px !important;
+}
+img{
+    height: 200px;
+    width: 200px !important;
+}
+#welcome{
+    height: 900px !important;
+    width: 900px !important;
+}
+#menu{
+    
+}
+html{
+    scroll-behavior: smooth;
+}
+.links{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: 'Pattaya', sans-serif;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: darkseagreen;
+    text-shadow: 2px 2px gainsboro;
+}
+.menu{
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
